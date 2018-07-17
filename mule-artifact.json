@@ -1,6 +1,6 @@
 {
   "configs": [
-    "mule-jenkins-pipeline.xml"
+    "mule-jenkins-pipeline.xml" 
   ],
   "secureProperties": [],
   "redeploymentEnabled": true,
