@@ -1,21 +1,21 @@
 {
-  "configs": [
-    "mule-jenkins-pipeline.xml" 
-  ],
-  "secureProperties": [],
-  "redeploymentEnabled": true,
-  "name": "mule-jenkins-pipeline",
-  "minMuleVersion": "4.1.1",
-  "requiredProduct": "MULE_EE",
-  "configName": "CloudHub",
-  "classLoaderModelLoaderDescriptor": {
-    "id": "mule",
-    "attributes": {
-      "exportedResources": []
+    "configs": [
+        "mule-jenkins-pipeline.xml"
+    ],
+    "secureProperties": [],
+    "redeploymentEnabled": true,
+    "name": "mule-jenkins-pipeline",
+    "minMuleVersion": "4.1.1",
+    "requiredProduct": "MULE_EE",
+    "configName": "MuleSoftDEmo",
+    "classLoaderModelLoaderDescriptor": {
+        "id": "mule",
+        "attributes": {
+            "exportedResources": []
+        }
+    },
+    "bundleDescriptorLoader": {
+        "id": "mule",
+        "attributes": {}
     }
-  },
-  "bundleDescriptorLoader": {
-    "id": "mule",
-    "attributes": {}
-  }
 }
