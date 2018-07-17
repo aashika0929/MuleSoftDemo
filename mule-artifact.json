@@ -7,6 +7,7 @@
   "name": "mule-jenkins-pipeline",
   "minMuleVersion": "4.1.1",
   "requiredProduct": "MULE_EE",
+  "configName": "MuleSoftDemo",
   "classLoaderModelLoaderDescriptor": {
     "id": "mule",
     "attributes": {
